@@ -32,7 +32,8 @@
         "rmrevin/yii2-fontawesome": "~2.17",
         "hscstudio/yii2-mimin": "~1.1.4",
         "kartik-v/yii2-widget-fileinput": "@dev",
-        "kartik-v/yii2-datecontrol": "dev-master"
+        "kartik-v/yii2-datecontrol": "dev-master",
+        "ramosisw/yii2-material-dashboard": "dev-master"
     
     },
     "require-dev": {

@@ -19,7 +19,7 @@ body {
 }
 
 .footer {
- 
+
        border-color: #d3e0e9;
 
   bottom: 0;
@@ -96,4 +96,8 @@ a.desc:after {
     border-left: 3px solid #eed3d7;
     padding: 10px 20px;
     margin: 0 0 15px 0;
+}
+
+.main-panel{
+    width : calc(100%-200px);
 }
